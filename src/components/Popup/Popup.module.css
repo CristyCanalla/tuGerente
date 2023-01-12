@@ -5,6 +5,8 @@
   gap: 0.8rem;
   flex-direction: column;
   padding: 1.6rem;
+  width: 50%;
+  margin-left: 350px;
 }
 
 .popup__button {
