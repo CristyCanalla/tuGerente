@@ -1,0 +1,12 @@
+.app__dropdown {
+  font-size: 3.2rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1.6rem;
+  color: rgb(194, 20, 20);
+}
+
+.app__test-text {
+  margin-top: 1.6rem;
+}
+
